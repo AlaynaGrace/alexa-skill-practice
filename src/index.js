@@ -63,7 +63,7 @@ function getFact() {
         "The average cat food meal is the equivalent to about five mice.",
         "The first official cat show in the UK was organised at Crystal Palace in 1871.",
         "In just seven years, a single pair of cats and their offspring could produce a staggering total of 420,000 kittens."
-    ]
+    ];
 
     var newFact = randomPhrase(myFacts);
 
